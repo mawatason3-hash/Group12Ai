@@ -1,5 +1,7 @@
 # AgriSoko Pocket G12
 
+Group 12 work.
+
 AgriSoko Pocket is a five-screen Expo/React Native app for asking which G12 team member is relevant to a question, browsing the member directory, and viewing profiles. Its FastAPI backend uses a scikit-learn TF-IDF model with cosine similarity and a 0.45 match threshold. The six-member directory falls back to bundled local data if the API is unavailable.
 
 ## Team
