@@ -38,7 +38,7 @@ Set `EXPO_PUBLIC_API_URL` before starting Expo to connect to a deployed/reachabl
 
 ## Git
 
-GitHub repository: [mawatason3-hash/Group12Ai](https://github.com/mawatason3-hash/Group12Ai). Initial implementation commit: `PENDING_BASELINE_HASH` (replaced after the first commit). The final history tip is printed by `git rev-parse HEAD`. Branches are starting points; add each member's work on their branch before opening a PR. Do not force-push over the existing repository history.
+GitHub repository: [mawatason3-hash/Group12Ai](https://github.com/mawatason3-hash/Group12Ai). Initial implementation commit: `0d2a3cf2c8569c89a9989ce4e93693370a265f3e`. The final history tip is printed by `git rev-parse HEAD`. Branches are starting points; add each member's work on their branch before opening a PR. Do not force-push over the existing repository history.
 
 ## Limitations
 
